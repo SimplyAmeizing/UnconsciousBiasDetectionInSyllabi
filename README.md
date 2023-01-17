@@ -25,7 +25,7 @@ This code has been run and tested on:
 
 Download this code repository by using git:
 
-`git clone https://github.com/seungjeh39/MS-UnconsciousBiasDetection.git`
+`git clone https://github.com/SimplyAmeizing/UnconsciousBiasDetectionInSyllabi.git`
 
 ## Virtual Environment setup
 

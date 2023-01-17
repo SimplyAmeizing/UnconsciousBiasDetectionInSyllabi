@@ -1,0 +1,180 @@
+id,keyword,location,text
+1,,,"Course Description and Prerequisites Course number, title, description CSCE 310 – Database Systems File structures and access methods; database modeling, design, and user interface; components of database management systems; information storage and retrieval, query languages, high-level language interface with database systems"
+2,,,"Term Summer 2022 Section 700 Meeting times and location Asynchronous Online: Lecture will be posted in Canvas; the instructor and TA will host a once-a-week live online (optional) Q&amp;A session (see schedules below) Credit Hours 3-credit hour class, overall duration of 5-weeks Expected Workload: For every one credit hour in which you enroll, you need to allocate 2-3 hours outside of lectures"
+3,,,Prerequisites CSCE 221 with a grade of C or better; junior or senior classification
+4,,,"Course Learning Outcomes At the end of this class, the successful student will:  have a broad understanding of database concepts and database management system software  have a high-level understanding of major DBMS components and their function  be able to model an application’s data requirements using conceptual modeling tools like ER diagrams and design database schemas based on the conceptual model"
+5,,," be able to write SQL commands to create tables and indexes, insert/update/delete data, and query data from a relational DBMS"
+6,,," be able to program a data-intensive application using DBMS APIs through a course project, to experience the entire database lifecycle from conception, implementation, and validation; and describe the database application development process with specific supporting examples from the project"
+7,,," develop effective communication techniques to function productively as a team, with people you have not worked with before, who may have diverse backgrounds/working styles"
+8,,,Success is measured by achieving at least a satisfactory average peer feedback
+9,,,"CSCE 310 Syllabus – Summer 2022 – Wade 3 | Page More specifically:  He will demonstrate understanding of data models, you should be able to: o use data modeling tools like Entity-Relationship Diagrams o translate data models into relational table schemas  He will demonstrate understanding of the relational model of data &amp; its use in query languages for databases, you should be able to: o express queries using relational algebra o use relational algebra operators including extended operators under both set and bag semantics o specify appropriate constraints  He will demonstrate understanding of data normalization, you should be able to: o find keys given a set of functional dependencies o identify tables that are not normalized o decompose unnormalized tables into 4NF, BCNF, and/or 3NF compliant tables  He will demonstrate understanding of views, triggers, and indexes, you should be able to: o define and use views o define and use triggers o decide what indexes to create for a given workload  He will demonstrate proficiency in SQL, you should be able to: o create tables using SQL DDL o specify primary key and foreign key constraints in CREATE TABLE statements o write single block SQL queries o compose SQL queries using set (and bag) operators o write SQL queries with correlated subqueries o write SQL aggregation queries involving GROUP BY and HAVING clauses o translate a user requirement written in English to SQL  He will demonstrate understanding of multi-tier database applications, you should be able to: o design, develop and evaluate a DBMS-backed application to address a problem, using a language of your choice (e.g."
+10,,,"Java, Python, Ruby, etc."
+11,,,CSCE 310 Syllabus – Summer 2022 – Wade 4 | Page Instructor Information &amp; Schedule of Q&amp;A Name Pauline Wade Email address paulinewade@tamu.ed
+12,,,Q&amp;A / Office hours Tuesday at 4-5 p.m
+13,,,or by appointment Zoom link https://tamu.zoom.us/j/99919272821?pwd=MUFNa2J1Q3MwbUYzTE9Ya
+14,,,"pFQ3dxdz09 Teaching Assistant Name Email address Q&amp;A / Office hours Zoom link Teaching Assistant Name Email address Q&amp;A / Office hours Zoom link Textbook and/or Resource Material  Textbook: Database Systems, The Complete Book, 2nd Edition, Hector Garcia-Molina, Jeffrey D"
+15,,,"Ullman, and Jennifer Widom, Prentice Hall, 2009"
+16,,,"Available in course reserves under the course DATABASE SYSTEMS - CSCE 310 – 700, password: database"
+17,,,"To access, log in at: https://reserves.library.tamu.ed"
+18,,,using your Net ID
+19,,,You have access to the materials for 2 hours at a time and one student at a time
+20,,," Hard copy at The Library Annex, First Floor, with a check-out period of 4-hours"
+21,,, To purchase ($44.99)
+22,,,click on this link -&gt; https://www.vitalsource.com/products/database-systems-hector-garcia-molina
+23,,,v9780133002010
+24,,,Please feel free to acquire the course material from vendors that provide the best value and amenities
+25,,," Lecture videos, slides, and other links in Canvas"
+26,,,"Grading Policies The final grade he will receive in the class will be based on points accumulated during the semester, based on visible progress and the quality of submissions"
+27,,,Grading Breakdown CSCE 310 Syllabus – Summer 2022 – Wade 5 | Page Standard Letter Grading Scale: A ≥ 90% &gt; B ≥ 80% &gt; C ≥ 70% &gt; D ≥ 60% &gt; F
+28,,,The breakdown of your grade shown below: Category % Notes 1
+29,,,Group Project TOTAL 40% Components are itemized below
+30,,,a
+31,,,Documentation i
+32,,,"Project Proposal, Team Agreement, other prep documents 5% Other project prep documents are those needed in project initiation ii Conceptual Design 5% Part 1 design document iii"
+33,,,Logical Design 5% Part 2 design document &amp; project progress report iv
+34,,,"Final Report 5% Final report, including compilation of previous documents b"
+35,,,"Code 15% Fully evaluated and documented (Readme, Code comments, etc."
+36,,,"code, working system as per objectives c"
+37,,,"Presentation 5% Final Presentation –pre-recorded presentation, including slide deck"
+38,,,2
+39,,,Peer Feedback TOTAL 4% Components are itemized below
+40,,,a
+41,,,Submission of peer feedback 2% You will give feedback on the performance of the other team members through submission of frequent peer feedback forms
+42,,,NOTE: Credit given here for timely submission of peer feedback
+43,,,b
+44,,,Average of last peer feedback 2% Average of his last peer feedback score (including the teaching team’s peer feedback score) measuring the perception of your fellow team members of your participation &amp; contribution to the project
+45,,,3
+46,,,Exam TOTAL 20% Components are itemized below
+47,,,a
+48,,,Exams 16% Two are planned; additional ones given as grade boosters
+49,,,b
+50,,,"Individual Audit 4% You describe your role in the project, in a recorded presentation, including your technical (design, coding, and testing) and project management roles"
+51,,,Credit given for content and submission of recording &amp; slide deck
+52,,,4
+53,,,Quizzes TOTAL 6% Three are planned; additional ones given as grade boosters
+54,,,5
+55,,,Homework TOTAL 30% Components are itemized below
+56,,,a
+57,,,Individual Project Proposal 2% Note: Individual submission b
+58,,,Skill Survey &amp; Appearance release 1% c
+59,,,Syllabus &amp; Online Course Appreciative Agreement 1% Understanding class expectations can help you navigate successfully through the course d
+60,,,Other Homework 24% e
+61,,,Reflections 2% Reflection of other groups’ presentations viewed asynchronously  Due dates are posted in Canvas and are due 11:59 p.m.
+62,,,unless announced otherwise
+63,,,"CSCE 310 Syllabus – Summer 2022 – Wade 6 | Page  Although the group project has a higher weight, other components with lower weights do contribute to a higher letter grade"
+64,,, We do not curve in this class; 89.9
+65,,,is still considered a B
+66,,,"Rather, we teach to proficiency, setting clear expectations of what you need to accomplish to earn an A"
+67,,,"If he is participating in class or the group project, and making adjustments based on our feedback, he should expect an A with just fulfilling the basic requirements"
+68,,,"Additionally, we will give extra credit opportunities, with eligibility described in a later section, to allow him to boost your grade"
+69,,,"Group Project You will work in a group to complete a project, through an application of an engineering approach to database design, development, validation, documentation, and end-of-semester class demonstration of the project experience &amp; solution"
+70,,,"The focus will be on the final product, process, and teamwork"
+71,,,You will be assigned to a group of ~4-5 students
+72,,,"To ensure inclusiveness and avoid exclusion of students, he will be assigned to a project group based on results of a skill survey to ensure that technical experience is balanced across the different project groups"
+73,,,Rubrics are available for him to understand project expectations
+74,,,"Any additional items added later to the rubric count as extra credit, hence there is no obligation to comply with the requirement; you can still get an A fulfilling the basic requirements"
+75,,,● Project Deliverables –detail on the expectations of each one described in the project rubrics
+76,,,"o Final code (that is clean and understandable), submitted in the assigned GitHub Classroom repository, and any other supporting documentation (e.g."
+77,,,"README, code comments, etc.)"
+78,,,"Documentation will be assessed based on how well a reader (without the aid of the original developers) can understand the implementation details, install any required dependencies, and execute your system"
+79,,,It will be difficult to get an A if you do not have a tested working system
+80,,,o Assigned documents (e.g.
+81,,,"design, final report) evaluated on its completeness (using given templates), and effectiveness in communicating key aspects of your system o High-quality recording of the final presentation with slide deck, evaluated on the clarity of communication and demonstration of your project’s system and development process"
+82,,,These will be viewed by other students in the class and used as the basis for their end-of-semester reflections
+83,,,● Condition of getting the project group grade is submission of all peer feedback and completion of all project deliverables by the deadline specified in Canvas
+84,,,CSCE 310 Syllabus – Summer 2022 – Wade 7 | Page ● Final grades will not be released until all the project deliverables are verified by the instructor team
+85,,," His overall grade can increase, even up a letter grade, based on (but not limited to) the following: o Excellent project deliverables, exceeding basic expectations"
+86,,,o Excellent peer feedback and contribution to the group project
+87,,,"o Effective (polite and collaborative) communication with fellow students, instructor, and teaching team"
+88,,," His overall grade can decrease, even down a letter grade, based on (but not limited to) the following: o Project deliverables with high severity defects (i.e."
+89,,,no workaround) o Our perception of your effort or contribution to the group project
+90,,,This can be due to poor peer feedback (verified) [or] interactions with the teaching team
+91,,,"o Continuously missing your group’s meetings, based on feedback from your fellow team members"
+92,,,o Inappropriate (e.g.
+93,,,"rude, not professional) communication with fellow students, instructor, teaching team"
+94,,,"Exams / Quizzes These will cover material from the homework, lectures, and any pre &amp; post lecture work (e.g."
+95,,,"assigned reading), to let us know where his knowledge might be lacking for us to make continuous class improvements"
+96,,,It also informs him about gaps in his knowledge/skills needed to make a good grade
+97,,,"Once he has taken the exam / quiz, he is not allowed to talk about its composition with anyone"
+98,,,Any unauthorized sharing constitutes academic misconduct and will be reported to the honors council and result in the application of an appropriate sanction
+99,,,"In addition, exams / quizzes are required to be taken in a scheduled, synchronous online proctored environment, otherwise, taking the exam outside of the proctored environment can constitute academic misconduct"
+100,,,"Homework  These are expected to be completed individually, as his understanding of homework questions will maximize your grade in exams / quizzes, which in part will be based on the homework"
+101,,,Any violation of academic integrity constitutes academic misconduct and will be reported to the honors council and result in the application of an appropriate sanction
+102,,," Homework must be submitted electronically using Canvas, and will be due 11:59 p.m"
+103,,,"of the due date, unless otherwise noted"
+104,,,Email submissions will not be accepted
+105,,, He is responsible to make sure that the assignment is submitted correctly
+106,,,"Double check your submission by downloading it yourself, then confirming that the one stored in CSCE 310 Syllabus – Summer 2022 – Wade 8 | Page Canvas is the intended one"
+107,,,Incorrect submission or technology-related / technological problems are not valid excuses for late or missed work
+108,,,"Late Work Policy With pre-approval from the instructor, late submissions (e.g."
+109,,,"submitting after the deadline, submitting after the last day of class) is accepted only up to the time that the solutions will be discussed in class or as agreed to with the instructor"
+110,,,The request for deadline extensions should be submitted at least two business days (not counting weekends) before the due date (e.g.
+111,,,"if the due date is Monday, request has to be received by Thursday), by sending a request via a link to be given by the instructor, especially for those absences that meet Student Rule 7"
+112,,,*The only exception is in the case of an emergency; in which case you can submit the request for extension when able
+113,,,This will allow us time to review his request and ask for additional information when needed
+114,,,“Unapproved” late assignments will receive a grade of zero
+115,,,"Extra Credit When needed to reinforce proficiency in concepts or boost his grade, extra credit assignments will be given throughout the semester, which are optional, hence you are not obligated to do these assignments"
+116,,,"Depending on the complexity or time involved and quality of your submission, a maximum of 3% extra credit can be added to his final grade"
+117,,,"To be eligible for extra credit points, he needs to have a maximum of two missed or late deliverables, (e.g."
+118,,,"homework, project, etc.)"
+119,,,not counting those that have been excused; and his latest peer feedback has at least a ‘meets expectations’ average score
+120,,,"The instructor will consider the circumstances before approving extra credit based on factors such as visible effort in the class and contribution to the group project, or if it makes a difference in increasing his grade to the next level"
+121,,,Course Schedule **Subject to change
+122,,,Latest schedule will be in Canvas
+123,,,"Week # Topics / Activities Due 1  Introduction to CSCE310  Intro to Databases, File Systems vs"
+124,,,"Databases  Project Overview  Online Course Appreciative Agreement  Syllabus Agreement  Student &amp; Skill Survey  Appearance Release  Reading: Chap 1, 9."
+125,,,"2  Database Life Cycle  Homework CSCE 310 Syllabus – Summer 2022 – Wade 9 | Page  Data Modeling using Entity Relationship Diagram  Connecting to the Postgres GUI  Connecting a Host Language (Java, Python) to PostgreSQL  Intro Relational Model  Normalization: 1NF, 2NF, 3NF  Quiz  Individual Project proposal  Reading: Chap 4."
+126,,,to 4.6
+127,,,2.1
+128,,,2.2
+129,,,3.
+130,,," Team assignments announced 3  Functional Dependencies  Normalization-Boyce Codd &amp; 4NF  DDL, DML Intro  Constraints in SQL  SQL  Homework  Exam  Peer Feedback  Group Proposal, Conceptual Design, GitHub set-up &amp; Team Working Agreement  Reading: Chap 3.1"
+131,,,3.2
+132,,,3.3
+133,,,2.3
+134,,,7.
+135,,,to 7.3
+136,,,9.
+137,,,4  Indices  Views  Triggers  SQL &amp; Host Language JAVA &amp; Python  Stored Procedures  Physical DB Design &amp; Denormalization  Relational Algebra  Transaction Management-Atomicity  Concurrency Control  Recovery  Homework  Quiz  Peer Feedback  Group Logical Design  Reading: Chap 7.5
+138,,,"8, 9.3"
+139,,,9.4
+140,,,9.5
+141,,,9.6
+142,,,2.4
+143,,,2.5
+144,,,5.1
+145,,,6.6
+146,,,17.
+147,,,to 17.4
+148,,,18.
+149,,,to 18.4
+150,,,19.
+151,,,&amp; 19.
+152,,,"5  Semi Structured Data, XML, &amp; NoSQL DBs  DTD &amp; XML Schema  Watch project presentations &amp; write reflections  Exam  Peer Feedback  Minimum Viable Product Code Submission  Group final presentation recording &amp; slides  Recording of individual contribution to the project  Reflections  Reading: Chap 11 6  Watch project presentations &amp; write reflections  Project / Grade Consultation  Quiz  Peer Feedback  Reflections  Group project deliverables: final project report; final documented code &amp; README CSCE 310 Syllabus – Summer 2022 – Wade 10 | Page Other Course Information Items Course Expectations Course expectations, in the form of an online course appreciative agreement, will be reviewed and agreed to in the beginning of the semester"
+153,,,"Course Copyright The materials used in this course are copyrighted and include, but not limited to, the syllabus, quizzes, exams, homework, online handouts, video, audio, or other electronic recordings of classes, etc"
+154,,,You cannot copy or distribute these materials unless permission is expressly granted
+155,,,Any violation constitutes academic misconduct and will be reported to the honors council and result in the application of an appropriate sanction
+156,,,Technology Support The working environment will most likely be: 1
+157,,,Internet 2
+158,,,Zoom (for online Q&amp;A / office hours) and working webcam (for online office hours)
+159,,,External webcam or backup device such as mobile is accepted
+160,,,3
+161,,,Canvas 4
+162,,,Computer 5
+163,,,"Any operating system: for Windows, recommend Windows’ subsystem for Linux 6"
+164,,,PostgreSQL 7
+165,,,Your choice of PostgreSQL GUI (e.g.
+166,,,"pgadmin, DBeaver, etc."
+167,,,8
+168,,,Psql – PostgreSQL command line environment 9
+169,,,Your choice of programming language (e.g.
+170,,,"Java, Python, Ruby, etc."
+171,,,that you will connect with PostgreSQL 10
+172,,,"GitHub repo for the group-developed software, accessible to all team members, instructor, and the teaching team"
+173,,,You will later clone your repo to the provided GitHub classroom repo 11
+174,,,Other supplementary online materials (e.g.
+175,,,"LinkedIn Learning modules - free using TAMU credentials) For help with technology, please use the online help materials http://it.tamu.ed"
+176,,,or contact Help Desk Central at: Email: helpdesk@tamu.ed
+177,,,or Phone: (979) 845-8300
+178,,,Also feel free to contact TAs as they are familiar with installation and setup of covered technologies in the course
+179,,,Learning Resources The Study Hub website lists on-campus learning resources to support students in achieving academic excellence

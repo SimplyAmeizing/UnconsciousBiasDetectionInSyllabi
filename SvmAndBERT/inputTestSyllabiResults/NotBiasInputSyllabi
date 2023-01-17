@@ -1,0 +1,99 @@
+ Course Learning Outcomes At the end of this class, the successful student will:  have a broad understanding of database concepts and database management system software  have a high-level understanding of major DBMS components and their function  be able to model an application’s data requirements using conceptual modeling tools like ER diagrams and design database schemas based on the conceptual model
+Java, Python, Ruby, etc.
+Q&amp;A / Office hours Tuesday at 4-5 p.m
+Ullman, and Jennifer Widom, Prentice Hall, 2009
+using your Net ID
+You have access to the materials for 2 hours at a time and one student at a time
+ Hard copy at The Library Annex, First Floor, with a check-out period of 4-hours
+ To purchase ($44.99)
+click on this link -&gt; https://www.vitalsource.com/products/database-systems-hector-garcia-molina
+Please feel free to acquire the course material from vendors that provide the best value and amenities
+ Lecture videos, slides, and other links in Canvas
+The breakdown of your grade shown below: Category % Notes 1
+Group Project TOTAL 40% Components are itemized below
+Documentation i
+Logical Design 5% Part 2 design document &amp; project progress report iv
+Code 15% Fully evaluated and documented (Readme, Code comments, etc.
+code, working system as per objectives c
+Presentation 5% Final Presentation –pre-recorded presentation, including slide deck
+Peer Feedback TOTAL 4% Components are itemized below
+Submission of peer feedback 2% You will give feedback on the performance of the other team members through submission of frequent peer feedback forms
+b
+3
+Exam TOTAL 20% Components are itemized below
+Exams 16% Two are planned; additional ones given as grade boosters
+b
+Credit given for content and submission of recording &amp; slide deck
+Quizzes TOTAL 6% Three are planned; additional ones given as grade boosters
+5
+Homework TOTAL 30% Components are itemized below
+a
+Skill Survey &amp; Appearance release 1% c
+Syllabus &amp; Online Course Appreciative Agreement 1% Understanding class expectations can help you navigate successfully through the course d
+Reflections 2% Reflection of other groups’ presentations viewed asynchronously  Due dates are posted in Canvas and are due 11:59 p.m.
+Additionally, we will give extra credit opportunities, with eligibility described in a later section, to allow him to boost your grade
+Group Project You will work in a group to complete a project, through an application of an engineering approach to database design, development, validation, documentation, and end-of-semester class demonstration of the project experience &amp; solution
+The focus will be on the final product, process, and teamwork
+You will be assigned to a group of ~4-5 students
+Rubrics are available for him to understand project expectations
+● Project Deliverables –detail on the expectations of each one described in the project rubrics
+Documentation will be assessed based on how well a reader (without the aid of the original developers) can understand the implementation details, install any required dependencies, and execute your system
+It will be difficult to get an A if you do not have a tested working system
+o Assigned documents (e.g.
+design, final report) evaluated on its completeness (using given templates), and effectiveness in communicating key aspects of your system o High-quality recording of the final presentation with slide deck, evaluated on the clarity of communication and demonstration of your project’s system and development process
+These will be viewed by other students in the class and used as the basis for their end-of-semester reflections
+CSCE 310 Syllabus – Summer 2022 – Wade 7 | Page ● Final grades will not be released until all the project deliverables are verified by the instructor team
+o Excellent peer feedback and contribution to the group project
+o Effective (polite and collaborative) communication with fellow students, instructor, and teaching team
+no workaround) o Our perception of your effort or contribution to the group project
+rude, not professional) communication with fellow students, instructor, teaching team
+Exams / Quizzes These will cover material from the homework, lectures, and any pre &amp; post lecture work (e.g.
+It also informs him about gaps in his knowledge/skills needed to make a good grade
+Any unauthorized sharing constitutes academic misconduct and will be reported to the honors council and result in the application of an appropriate sanction
+Email submissions will not be accepted
+ He is responsible to make sure that the assignment is submitted correctly
+Double check your submission by downloading it yourself, then confirming that the one stored in CSCE 310 Syllabus – Summer 2022 – Wade 8 | Page Canvas is the intended one
+This will allow us time to review his request and ask for additional information when needed
+Extra Credit When needed to reinforce proficiency in concepts or boost his grade, extra credit assignments will be given throughout the semester, which are optional, hence you are not obligated to do these assignments
+Depending on the complexity or time involved and quality of your submission, a maximum of 3% extra credit can be added to his final grade
+Course Schedule **Subject to change
+Latest schedule will be in Canvas
+Week # Topics / Activities Due 1  Introduction to CSCE310  Intro to Databases, File Systems vs
+2  Database Life Cycle  Homework CSCE 310 Syllabus – Summer 2022 – Wade 9 | Page  Data Modeling using Entity Relationship Diagram  Connecting to the Postgres GUI  Connecting a Host Language (Java, Python) to PostgreSQL  Intro Relational Model  Normalization: 1NF, 2NF, 3NF  Quiz  Individual Project proposal  Reading: Chap 4.
+to 4.6
+2.1
+2.2
+3.
+ Team assignments announced 3  Functional Dependencies  Normalization-Boyce Codd &amp; 4NF  DDL, DML Intro  Constraints in SQL  SQL  Homework  Exam  Peer Feedback  Group Proposal, Conceptual Design, GitHub set-up &amp; Team Working Agreement  Reading: Chap 3.1
+3.2
+2.3
+9.
+4  Indices  Views  Triggers  SQL &amp; Host Language JAVA &amp; Python  Stored Procedures  Physical DB Design &amp; Denormalization  Relational Algebra  Transaction Management-Atomicity  Concurrency Control  Recovery  Homework  Quiz  Peer Feedback  Group Logical Design  Reading: Chap 7.5
+9.6
+5.1
+6.6
+17.
+to 18.4
+19.
+&amp; 19.
+5  Semi Structured Data, XML, &amp; NoSQL DBs  DTD &amp; XML Schema  Watch project presentations &amp; write reflections  Exam  Peer Feedback  Minimum Viable Product Code Submission  Group final presentation recording &amp; slides  Recording of individual contribution to the project  Reflections  Reading: Chap 11 6  Watch project presentations &amp; write reflections  Project / Grade Consultation  Quiz  Peer Feedback  Reflections  Group project deliverables: final project report; final documented code &amp; README CSCE 310 Syllabus – Summer 2022 – Wade 10 | Page Other Course Information Items Course Expectations Course expectations, in the form of an online course appreciative agreement, will be reviewed and agreed to in the beginning of the semester
+Course Copyright The materials used in this course are copyrighted and include, but not limited to, the syllabus, quizzes, exams, homework, online handouts, video, audio, or other electronic recordings of classes, etc
+You cannot copy or distribute these materials unless permission is expressly granted
+Technology Support The working environment will most likely be: 1
+Internet 2
+Zoom (for online Q&amp;A / office hours) and working webcam (for online office hours)
+3
+Canvas 4
+Computer 5
+Any operating system: for Windows, recommend Windows’ subsystem for Linux 6
+PostgreSQL 7
+8
+Psql – PostgreSQL command line environment 9
+Java, Python, Ruby, etc.
+that you will connect with PostgreSQL 10
+GitHub repo for the group-developed software, accessible to all team members, instructor, and the teaching team
+You will later clone your repo to the provided GitHub classroom repo 11
+Other supplementary online materials (e.g.
+or contact Help Desk Central at: Email: helpdesk@tamu.ed
+or Phone: (979) 845-8300
+Learning Resources The Study Hub website lists on-campus learning resources to support students in achieving academic excellence
